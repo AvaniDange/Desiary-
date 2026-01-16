@@ -1,1 +1,1 @@
-Desiary is a socially elevating journaling platform developed using React.js and Tailwind CSS. It encourages mindfulness and emotional wellness by allowing users to maintain wishlists, journals, memories, and travel logs in one unified space. The app emphasizes clean UI, responsive design, and user-friendly navigation to enhance digital self-expression and reflection.
+[Updated on Jan 16th 2026]
